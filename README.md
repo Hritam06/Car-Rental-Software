@@ -1,6 +1,6 @@
 # Car-Rental-Software
 
-A new Flutter project.
+A Flutter App to book Cars.
 
 ## Getting Started
 
